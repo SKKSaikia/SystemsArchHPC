@@ -55,7 +55,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 <b> Resource : </b> I have added free resources, which were helpful along the way:
 
-Manuals(pdf/ebook) : 
+[Manuals(pdf/ebook)](https://github.com/SKKSaikia/SystemsArchHPC/tree/master/manuals) : [Essential C](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/EssentialC.pdf) , [emacs ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [gdb ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/gdb_refcard.pdf), [gdb core dump](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [github cheat sheet](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/github-git-cheat-sheet.pdf), [make](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/make.pdf), [x86](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/onepage_x86-64.pdf), [valgrind](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/valgrind_manual.pdf)
 
 # ME 344: Introduction to High Performance Computing (Graded)
 
