@@ -7,6 +7,7 @@
 
 Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford University (Visiting Student, Summer 2018) | Graded () | Taught by Ryan Eberhardt under Professor Jerry Cain. Had so much fun Learning and Building Systems from Scratch on [Myth Machines](https://cs.stanford.edu/computing-guide/overview), where I ssh into the myth machines with my SUNet ID to perform experimentation and to submit my assignments.
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/res/cs110.png">
+[Summary](https://quip.com/rtxWAMyejpMR) :
 
 [Prereq](https://web.stanford.edu/class/cs110/summer-2018/handouts/course-information/): [CS 107](https://web.stanford.edu/class/cs107/resources.html), C/C++, valgrind, gdb, gcc, make, makefiles, unix, x86.
 
