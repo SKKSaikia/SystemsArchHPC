@@ -9,7 +9,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/res/cs110.png">
 [Summary](https://quip.com/rtxWAMyejpMR) :
 
-[Prereq](https://web.stanford.edu/class/cs110/summer-2018/handouts/course-information/): [CS 107](https://web.stanford.edu/class/cs107/resources.html), C/C++, valgrind, gdb, gcc, make, makefiles, unix, x86.
+[Prereq](https://web.stanford.edu/class/cs110/summer-2018/handouts/course-information/): [CS 107](https://web.stanford.edu/class/cs107/resources.html), C/C++, valgrind, gdb, gcc, make, makefiles, unix, x86, vim/emacs.
 
 <b>Grading</b> - Programming Assignments(45%), Midterm(20%)- Monday, July 23rd from 7-9pm in Hewlett 201, Finals(35%) - Friday, August 17th from 7-10pm
 
