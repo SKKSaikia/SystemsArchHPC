@@ -25,7 +25,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 7. Sunday - Ryan Eberhardt: 6-8pm, Huang basement
 
 
-<b>Textbook<b/> - 
+<b>Textbook</b> - 
 
         1.Computer Systems: A Programmer’s Perspective by Bryant and O’Hallaron
         2.Principles of Computer System Design: An Introduction by Jerome H. Saltzer and M. Frans Kaashoek
@@ -51,6 +51,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 - Lecture 4: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-4/)
 - Lecture 5: [Notes](#)
+
 
 <b> Resource : </b> I have added free resources, which were helpful along the way:
 
