@@ -61,7 +61,7 @@ Manuals(pdf/ebook) : [Essential C](https://github.com/SKKSaikia/SystemsArchHPC/b
 Exam Papers (past):
 
 Extra Resources:
-- [MIT 6.826: Principles of Computer Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-826-principles-of-computer-systems-spring-2002/), [Lectures](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
-- [CMU 15-213/18-213: Introduction to Computer Systems](http://www.cs.cmu.edu/~./213/), [Lectures](https://www.youtube.com/watch?v=tamj4B7OALc&list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
+- [MIT 6.826: Principles of Computer Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-826-principles-of-computer-systems-spring-2002/), § [Lectures](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+- [CMU 15-213/18-213: Introduction to Computer Systems](http://www.cs.cmu.edu/~./213/), § [Lectures](https://www.youtube.com/watch?v=tamj4B7OALc&list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
 # ME 344: Introduction to High Performance Computing (Graded)
 
