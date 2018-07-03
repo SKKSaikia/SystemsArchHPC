@@ -5,7 +5,7 @@
 
 # CS 110: Principles of Computer Systems (Graded)
 
-Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford University (Visiting Student, Summer 2018) | Graded () | Taught by Ryan Eberhardt under Professor Jerry Cain.
+Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford University (Visiting Student, Summer 2018) | Graded () | Taught by Ryan Eberhardt under Professor Jerry Cain. Had so much fun Learning and Building Systems from Scratch.
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/res/cs110.png">
 
     Syllabus:
