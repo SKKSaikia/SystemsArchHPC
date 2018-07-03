@@ -13,6 +13,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 Grading - Programming Assignments(45%), Midterm(20%)- Monday, July 23rd from 7-9pm in Hewlett 201, Finals(35%) - Friday, August 17th from 7-10pm
 
 Textbook - 
+
         1.Computer Systems: A Programmer’s Perspective by Bryant and O’Hallaron
         2.Principles of Computer System Design: An Introduction by Jerome H. Saltzer and M. Frans Kaashoek
 
