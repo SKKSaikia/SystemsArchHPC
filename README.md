@@ -9,14 +9,20 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/res/cs110.png">
 
     Syllabus:
-    1. 
-    2.
-    3.
-    4.
+    1. Introduction to Filesystems
+    2. System calls
+    3. Intro to Multiprocessing
+    4. Shells and Pipes
     5.
     6.
     7.
+    
+Week 1 (Lecture 1-3) + Assignment 1
 
+- Lecture 1: 
+- Lecture 2:
+- Lecture 3:
+- Lecture 4:
 
 # ME 344: Introduction to High Performance Computing (Graded)
 
