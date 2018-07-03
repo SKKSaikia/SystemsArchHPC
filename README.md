@@ -12,6 +12,19 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 Grading - Programming Assignments(45%), Midterm(20%)- Monday, July 23rd from 7-9pm in Hewlett 201, Finals(35%) - Friday, August 17th from 7-10pm
 
+Lab timing: Audrey Ho: Friday 6:00-7:20pm, 160-room317[Wallenberg Hall]
+
+Office Hours:
+
+1. Monday - Audrey Ho: 6-8pm, Lathrop Tech Lounge
+2. Tuesday - Audrey Ho: 5-7pm, Lathrop Tech Lounge , Michael Straka: 10am-12pm, Lathrop Tech Lounge
+3. Wednesday - Ryan Eberhardt: 1-3pm, Gates 192
+4. Thursday - Audrey: 5-7pm, Lathrop Tech Lounge,  Michael: 10am-12pm, Lathrop Tech Lounge, Matthew Katzman: 7-9pm, Lathrop Tech Lounge
+5. Friday -  Michael Straka: 10am-12pm, Lathrop Tech Lounge
+6. Saturday [#]
+7. Sunday - Ryan Eberhardt: 6-8pm, Huang basement
+
+
 Textbook - 
 
         1.Computer Systems: A Programmer’s Perspective by Bryant and O’Hallaron
