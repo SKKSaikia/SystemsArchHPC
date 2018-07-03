@@ -59,13 +59,13 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 Manuals(pdf/ebook) : [Essential C](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/EssentialC.pdf) , [emacs ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [gdb ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/gdb_refcard.pdf), [gdb core dump](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [github cheat sheet](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/github-git-cheat-sheet.pdf), [make](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/make.pdf), [x86](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/onepage_x86-64.pdf), [valgrind](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/valgrind_manual.pdf), [unix programming](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/UnixProgrammingTools.pdf), [pointers and memory](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/PointersAndMemory.pdf)
 
 # [Exam Papers (past)](https://drive.google.com/open?id=1NwMTPKlBOpS2LufQIy4_b9j9_-rnB5E-):
-- [Midterm Practice](https://drive.google.com/open?id=1e-FGz4Zq47kxPv-RYrSf8-5bFHHX_DrK) : [Solutions](https://drive.google.com/open?id=1Vtc2vknwWkIpRZSVuNJcMoizuugTHVA-)
-- [Midterm](https://drive.google.com/open?id=1r8htizx71Bs4LvGXFhNGZaCCq036sYEY) 
-- [Finals Practice](https://drive.google.com/open?id=1qt3ptr0VjqF6i1BbdTsgqjL-S_lOpc9w) : [Solutions](https://drive.google.com/open?id=1rU20MGOk2RHtgcCmGxLdz64Sk6zT5GrJ)
-- [Final](https://drive.google.com/open?id=1jCZQxCn1rCILu-RHI1O1y46MUeeJzSD0) 
-- [Labs](https://drive.google.com/open?id=1mcIb-MRuWPfmVQvLLU83paqdq-ICrkww) : [Solutions](https://drive.google.com/open?id=16oQzykuMt7jTCPBxnHjcSrtQQMgtDwUG)
-- [Assignments](https://drive.google.com/open?id=1PyT1MZCk4FVabfBIn7WYEcYtOpIim1jy) 
-- [Multithreading and Synchronization Redux](https://drive.google.com/file/d/19Xn3RhwMDLWCHZpYB5scNC-shuft6MVl/view?usp=sharing)
+- ✿[Midterm Practice](https://drive.google.com/open?id=1e-FGz4Zq47kxPv-RYrSf8-5bFHHX_DrK) : [Solutions](https://drive.google.com/open?id=1Vtc2vknwWkIpRZSVuNJcMoizuugTHVA-)
+- ✿[Midterm](https://drive.google.com/open?id=1r8htizx71Bs4LvGXFhNGZaCCq036sYEY) 
+- ✿[Finals Practice](https://drive.google.com/open?id=1qt3ptr0VjqF6i1BbdTsgqjL-S_lOpc9w) : [Solutions](https://drive.google.com/open?id=1rU20MGOk2RHtgcCmGxLdz64Sk6zT5GrJ)
+- ✿[Final](https://drive.google.com/open?id=1jCZQxCn1rCILu-RHI1O1y46MUeeJzSD0) 
+- ✿[Labs](https://drive.google.com/open?id=1mcIb-MRuWPfmVQvLLU83paqdq-ICrkww) : [Solutions](https://drive.google.com/open?id=16oQzykuMt7jTCPBxnHjcSrtQQMgtDwUG)
+- ✿[Assignments](https://drive.google.com/open?id=1PyT1MZCk4FVabfBIn7WYEcYtOpIim1jy) 
+- ✿[Multithreading and Synchronization Redux](https://drive.google.com/file/d/19Xn3RhwMDLWCHZpYB5scNC-shuft6MVl/view?usp=sharing)
 
 
 Extra Resources:
