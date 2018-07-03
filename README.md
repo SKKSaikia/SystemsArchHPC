@@ -19,10 +19,10 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
     
 Week 1 (Lecture 1-3) + Assignment 1
 
-- Lecture 1: 
-- Lecture 2:
-- Lecture 3:
-- Lecture 4:
+- Lecture 1: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-1/) + [Slides](https://web.stanford.edu/class/cs110/summer-2018/slides/lecture-1.pdf) 
+- Lecture 2: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-2/)
+- Lecture 3: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-3/)
+- Lecture 4: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-4/)
 
 # ME 344: Introduction to High Performance Computing (Graded)
 
