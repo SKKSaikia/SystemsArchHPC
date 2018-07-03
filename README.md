@@ -8,9 +8,13 @@
 Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford University (Visiting Student, Summer 2018) | Graded () | Taught by Ryan Eberhardt under Professor Jerry Cain. Had so much fun Learning and Building Systems from Scratch on [Myth Machines](https://cs.stanford.edu/computing-guide/overview), where I ssh into the myth machines with my SUNet ID to perform experimentation and to subit my assignments.
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/res/cs110.png">
 
-[Prereq](https://web.stanford.edu/class/cs110/summer-2018/handouts/course-information/): CS 107, C/C++, valgrind, gdb, gcc, make, makefiles, unix, x86.
+[Prereq](https://web.stanford.edu/class/cs110/summer-2018/handouts/course-information/): [CS 107](https://web.stanford.edu/class/cs107/resources.html), C/C++, valgrind, gdb, gcc, make, makefiles, unix, x86.
 
 Grading - Programming Assignments(45%), Midterm(20%)- Monday, July 23rd from 7-9pm in Hewlett 201, Finals(35%) - Friday, August 17th from 7-10pm
+
+Textbook - 
+        1.Computer Systems: A Programmer’s Perspective by Bryant and O’Hallaron
+        2.Principles of Computer System Design: An Introduction by Jerome H. Saltzer and M. Frans Kaashoek
 
 Discussions - [Piazza](https://piazza.com/stanford/summer2018/cs110) | [Slack](https://cs110.slack.com/messages/CBCBHCF8X/details/) | Ryan (rebs@ / rebs (at) cs (dot) stanford)
 
