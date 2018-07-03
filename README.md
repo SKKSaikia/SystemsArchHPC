@@ -35,7 +35,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 <b>Discussions</b> - [Piazza](https://piazza.com/stanford/summer2018/cs110) | [Slack](https://cs110.slack.com/messages/CBCBHCF8X/details/) | Ryan (rebs@ / rebs (at) cs (dot) stanford)
 
-<b>[Syllabus:](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/ME344%20Summer%202018%20Syllabus.pdf)</b>
+<b>Syllabus:</b>
 
     1. Introduction to Filesystems
     2. System calls
