@@ -58,5 +58,10 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 Manuals(pdf/ebook) : [Essential C](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/EssentialC.pdf) , [emacs ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [gdb ref card](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/gdb_refcard.pdf), [gdb core dump](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/emacs_refcard.pdf), [github cheat sheet](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/github-git-cheat-sheet.pdf), [make](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/make.pdf), [x86](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/onepage_x86-64.pdf), [valgrind](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/valgrind_manual.pdf), [unix programming](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/UnixProgrammingTools.pdf), [pointers and memory](https://github.com/SKKSaikia/SystemsArchHPC/blob/master/manuals/PointersAndMemory.pdf)
 
+Exam Papers (past):
+
+Extra Resources:
+- [MIT 6.826: Principles of Computer Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-826-principles-of-computer-systems-spring-2002/), [Lectures](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+- [CMU 15-213/18-213: Introduction to Computer Systems](http://www.cs.cmu.edu/~./213/), [Lectures](https://www.youtube.com/watch?v=tamj4B7OALc&list=PLpIxOj-HnDsPZIJYO4U9f-xRI8bBadaso)
 # ME 344: Introduction to High Performance Computing (Graded)
 
