@@ -52,5 +52,9 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 - Lecture 4: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-4/)
 - Lecture 5: [Notes](#)
 
+<b> Resource : </b> I have added free resources, which were helpful along the way:
+
+Manuals(pdf/ebook) : 
+
 # ME 344: Introduction to High Performance Computing (Graded)
 
