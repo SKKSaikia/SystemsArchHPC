@@ -15,7 +15,7 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 
 <b>Grading</b> - Programming Assignments(45%), Midterm(20%)- Monday, July 23rd from 7-9pm in Hewlett 201, Finals(35%) - Friday, August 17th from 7-10pm
 
-<b>Lab timing:</b> Audrey Ho: Friday 6:00-7:20pm, 160-room317[Wallenberg Hall]
+<b>Lab 	∞ timing:</b> Audrey Ho: Friday 6:00-7:20pm, 160-room317[Wallenberg Hall]
 
 <b>Office Hours:</b>
 
