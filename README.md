@@ -1,6 +1,6 @@
 # Computer Systems
 
-# CS 107: Computer Organization & Systems (Not Graded)
+# CS 107: [Computer Organization & Systems](http://web.stanford.edu/class/cs107/) (Not Graded)
 
 
 # CS 110: Principles of Computer Systems (Auditing) | 5 Units
