@@ -1,4 +1,4 @@
-# Computer Systems
+# Computer Systems | ✲
 
 # CS 107: [Computer Organization & Systems](http://web.stanford.edu/class/cs107/) (Not Graded)
 
