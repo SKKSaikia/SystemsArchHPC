@@ -91,4 +91,4 @@ Extra Resources:
 <img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/steveme344.jpg">
 with CTO IT, Intel (Shesha Krishnapura) , Guest Lecturer and Steve Jones (Director, Stanford HPC) | Professor
 <br/><br/>
-Passed this course with an A ; Stanford HPC - Steve , Michael, Fabian and all the wonderful people I met :) The Class is [here](https://www.youtube.com/watch?v=KlI1T9xdSAE&list=PLOoGUrwjS08MypOLt_udsrUTwudqLRUq2) ; Slurm ; cluster; Intel Vtune; Advisor :) 
+Passed this course with an A ; Stanford HPC - Steve , Michael, Fabian and all the wonderful people I met :) The Class is [here](https://www.youtube.com/watch?v=KlI1T9xdSAE&list=PLOoGUrwjS08MypOLt_udsrUTwudqLRUq2)  ; Slurm ; cluster; Intel Vtune; Advisor :) 
