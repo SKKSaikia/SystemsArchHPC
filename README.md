@@ -88,4 +88,7 @@ Extra Resources:
 - Github Systems Programing repo: [angrave](https://github.com/angrave/SystemProgramming/wiki), [cs edu](https://cs-education.github.io/sys/#/lessons), [awesome-list](https://github.com/prakhar1989/awesome-courses#systems), [geekodour-oneshot](https://github.com/geekodour/oneshot)
 # ME 344: Introduction to High Performance Computing (Graded)
 
+<img src="https://github.com/SKKSaikia/SystemsArchHPC/blob/master/steveme344.jpg">
+with CTO IT, Intel (Shesha Krishnapura) , Guest Lecturer and Steve Jones (Director, Stanford HPC) | Professor
+
 Passed this course with an A ; Stanford HPC - Steve , Michael, Fabian and all the wonderful people I met :) The Class is [here](https://www.youtube.com/watch?v=KlI1T9xdSAE&list=PLOoGUrwjS08MypOLt_udsrUTwudqLRUq2). | Slurm ; cluster; Intel Vtune; Advisor :) 
