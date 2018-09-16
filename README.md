@@ -61,11 +61,12 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
 - Lecture 2: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-2/)
 - Lecture 3: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-3/)
 
-<b>Week 2</b> (Lecture 4-5) + Assignment 2 + Lab 2 ✔
+<b>Week 2</b> (Lecture 4-5) + [Assignment 2](http://web.stanford.edu/class/cs110/summer-2018/assignments/assign2-multiprocessing/) + [Lab 2](http://web.stanford.edu/class/cs110/summer-2018/labs/lab-2/) ✔
 
 - Lecture 4: [Notes](https://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-4/)
-- Lecture 5: [Notes](#)
+- Lecture 5: [Notes](http://web.stanford.edu/class/cs110/summer-2018/lecture-notes/lecture-5/)
 
+<b>Week 3, 4, 5, 6, 7, 8</b> Audited
 
 <b> Resource : </b> I have added free resources, which were helpful along the way:
 
