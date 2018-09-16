@@ -1,7 +1,7 @@
 # Computer Systems | ✲
 
 # CS 107: [Computer Organization & Systems](http://web.stanford.edu/class/cs107/) (Not Graded)
-
+This wonderful [playlist](https://www.youtube.com/watch?v=ZfjTV57N4yQ&list=PLkGAai-LjzyMjXUmqq4xy3eILdNlA-BVN) is what you need to begin with CS107. 
 
 # CS 110: [Principles of Computer Systems](http://web.stanford.edu/class/cs110/) (Auditing) | 5 Units
 
