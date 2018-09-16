@@ -41,9 +41,19 @@ Took [CS 110](https://web.stanford.edu/class/cs110/summer-2018/) at Stanford Uni
     2. System calls
     3. Intro to Multiprocessing
     4. Shells and Pipes
-    5.
-    6.
-    7.
+    5. Signals
+    6. Multiprocessing Recap
+    7. Intro to Multithreading
+    8. Synchronization Primitives
+    9. Multithreading Recap
+    10. Midterm Review
+    11. Intro to Networking
+    12. Clients, Thread Pools
+    13. HTTP and Sockets Recap
+    14. Nonblocking I/O
+    15. MapReduce
+    16. Cloud Native Filesystems
+    17. Principles of System Design
     
 <b>Week 1</b> (Lecture 1-3) + [Assignment 1](https://web.stanford.edu/class/cs110/summer-2018/assignments/assign1-filesystems/) + [Lab 1](https://web.stanford.edu/class/cs110/summer-2018/labs/lab-1/) ✔
 
